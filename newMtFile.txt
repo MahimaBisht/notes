@@ -1,0 +1,1 @@
+hey lets check the git diff --staged command what it shows
